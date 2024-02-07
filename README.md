@@ -1,5 +1,5 @@
 ## Olá, somos a equipe de <br><strong>Tecnologia da Controladoria Geral do Município de Porto Velho</strong>👋
-<img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/2e/20170404181236%21Bras%C3%A3o_de_Porto_Velho.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/2e/20170404181236%21Bras%C3%A3o_de_Porto_Velho.svg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 
 ### Sobre
