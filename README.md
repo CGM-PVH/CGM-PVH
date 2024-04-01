@@ -1,5 +1,4 @@
-## Olá, somos a equipe de <br><strong>Tecnologia da Controladoria Geral do Município de Porto Velho</strong>👋
-<img src="https://upload.wikimedia.org/wikipedia/commons/archive/2/2e/20170404181236%21Bras%C3%A3o_de_Porto_Velho.svg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Olá, somos a equipe da <br><strong>Controladoria Geral do Município de Porto Velho</strong>👋
 
 
 ### Sobre
@@ -7,11 +6,9 @@
 Seja você um membro experiente da nossa equipe ou um novo colaborador ansioso para mergulhar em nosso mundo tecnológico, este repositório é o seu portal para uma jornada de inovação, colaboração e excelência técnica. Aqui, reunimos o coração pulsante de todas as nossas conquistas, conhecimentos e projetos.
 </p>
 
-## Equipe de Tecnologia da CGM
-- **Cassiano Braz - Gerente (DODP)**  <a href="https://github.com/cassianobraz" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/cassiano-pereira-4b39a120b" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-- **Jhonatan Carvalho - Gerente (DATI)**  <a href="https://github.com/jhonatanCarvalh0" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/jhonatancarvalh0/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-- **Thiago Teixeira - Estagiário (DODP)**  <a href="https://github.com/Hiipernova" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/thiago-teixeira-383434278/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
+## Equipe de Técnica Responsável
+- **Cassiano Braz - Assessor Técnico de Controle de Análise de Dados (CIEP/CGM)**  <a href="https://github.com/cassianobraz" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/cassiano-pereira-4b39a120b" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+- **Jhonatan Carvalho - Assessor Técnico de Controle de Informações Estratégicas (CIEP/CGM)**  <a href="https://github.com/jhonatanCarvalh0" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/jhonatancarvalh0/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ## Contribuições
 <p align='justify'>
