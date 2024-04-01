@@ -6,7 +6,7 @@
 Seja você um membro experiente da nossa equipe ou um novo colaborador ansioso para mergulhar em nosso mundo tecnológico, este repositório é o seu portal para uma jornada de inovação, colaboração e excelência técnica. Aqui, reunimos o coração pulsante de todas as nossas conquistas, conhecimentos e projetos.
 </p>
 
-## Equipe de Técnica Responsável
+## Equipe Técnica Responsável
 - **Cassiano Braz - Assessor Técnico de Controle de Análise de Dados (CIEP/CGM)**  <a href="https://github.com/cassianobraz" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/cassiano-pereira-4b39a120b" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 - **Jhonatan Carvalho - Assessor Técnico de Controle de Informações Estratégicas (CIEP/CGM)**  <a href="https://github.com/jhonatanCarvalh0" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/jhonatancarvalh0/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
